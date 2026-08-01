@@ -1,1 +1,7 @@
-{}
+{
+  "commit": "d3436b5856e37461d3e7825e2ead7d6f58b23f6b",
+  "fecha": "2026-08-01 22:52 UTC",
+  "digest": "sha256:54baeec4bd3e9dd5925c9a1f0b1d998ba259676126a4f89ebdb9903e87434dd3",
+  "notas": "Aviso de versión nueva en Diagnóstico, y correcciones varias",
+  "version": "0.2.0"
+}
