@@ -1,7 +1,7 @@
 {
-  "commit": "d3436b5856e37461d3e7825e2ead7d6f58b23f6b",
-  "fecha": "2026-08-01 22:52 UTC",
-  "digest": "sha256:54baeec4bd3e9dd5925c9a1f0b1d998ba259676126a4f89ebdb9903e87434dd3",
-  "notas": "Aviso de versión nueva en Diagnóstico, y correcciones varias",
+  "commit": "59393ff6ee136494d80fffd7b30ee8487b3c0112",
+  "fecha": "2026-08-01 23:16 UTC",
+  "digest": "sha256:fa1473f79d0a5a15d17bc9201aa83a546c6484694bd48c1641b7d33c913f2e91",
+  "notas": "Corrige la carga de Biblioteca",
   "version": "0.2.0"
 }
