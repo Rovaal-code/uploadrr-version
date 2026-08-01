@@ -1,7 +1,7 @@
 {
-  "commit": "59393ff6ee136494d80fffd7b30ee8487b3c0112",
-  "fecha": "2026-08-01 23:16 UTC",
-  "digest": "sha256:fa1473f79d0a5a15d17bc9201aa83a546c6484694bd48c1641b7d33c913f2e91",
-  "notas": "Corrige la carga de Biblioteca",
+  "commit": "850aa650dd2420546e9e81511b9bd0d7f4f0fa48",
+  "fecha": "2026-08-01 23:48 UTC",
+  "digest": "sha256:877854d37f81fdbf2065cb1bed179e9db056a1d8b4029ea57b7e02c97ef82d07",
+  "notas": "Mensajes de Configuración unificados y ajustes en la tabla de Biblioteca",
   "version": "0.2.0"
 }
