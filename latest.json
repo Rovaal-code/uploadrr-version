@@ -1,7 +1,7 @@
 {
-  "commit": "850aa650dd2420546e9e81511b9bd0d7f4f0fa48",
-  "fecha": "2026-08-01 23:48 UTC",
-  "digest": "sha256:877854d37f81fdbf2065cb1bed179e9db056a1d8b4029ea57b7e02c97ef82d07",
-  "notas": "Mensajes de Configuración unificados y ajustes en la tabla de Biblioteca",
+  "commit": "04b778edd7f6d8d6a42214e19dbdc2ccabca9935",
+  "fecha": "2026-08-02 01:19 UTC",
+  "digest": "sha256:0d9ed6791cabac9f62a297c2cc8b6caa8efadb48f235e92149496d4e6aa0ea3b",
+  "notas": "Aviso de versión nueva como tarea programada y en la campana",
   "version": "0.2.0"
 }
