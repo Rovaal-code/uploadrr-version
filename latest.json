@@ -1,7 +1,7 @@
 {
-  "commit": "04b778edd7f6d8d6a42214e19dbdc2ccabca9935",
-  "fecha": "2026-08-02 01:19 UTC",
-  "digest": "sha256:0d9ed6791cabac9f62a297c2cc8b6caa8efadb48f235e92149496d4e6aa0ea3b",
-  "notas": "Aviso de versión nueva como tarea programada y en la campana",
-  "version": "0.2.0"
+  "commit": "51ec63bdf829c0e013ed03dfd82b16ebd9ea5107",
+  "fecha": "2026-08-02 02:02 UTC",
+  "digest": "sha256:2138b9936986969657f6e79f02fe066fad5794ce3758057c5fefb02ebc6f7846",
+  "notas": "Tests en el frontend y aviso de versión con su número",
+  "version": "0.3.0"
 }
