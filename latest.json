@@ -1,7 +1,7 @@
 {
-  "commit": "815076b0a46b89beac65dcc0e4535ad723532e76",
-  "fecha": "2026-08-02 11:06 UTC",
-  "digest": "sha256:29d7ac9005e09d7ff83f6b33be4ed2639818c45e613063fab5850c7f6f4f55d3",
-  "notas": "Una subida terminada se queda un momento a la vista en el Panel antes de irse",
-  "version": "0.5.1"
+  "commit": "dbaab0bfc287ff4df7880cab465e3b8efa7a9469",
+  "fecha": "2026-08-02 13:14 UTC",
+  "digest": "sha256:ef8684e27e234c895a29493ea5eb8dee00c8d63e4860a0d21df291c986d16892",
+  "notas": "Cambiar de sección es instantáneo: todas se preparan al abrir la aplicación y se mantienen al día solas",
+  "version": "0.6.0"
 }
