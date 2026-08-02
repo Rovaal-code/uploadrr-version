@@ -1,7 +1,7 @@
 {
-  "commit": "18bd9cb02c5aa3ceab375e82ec21e736060310d3",
-  "fecha": "2026-08-02 02:47 UTC",
-  "digest": "sha256:4f2813671dfad3f92af3416a2e830fa62ba43ccfd1f529c60aa4cbc92f77490c",
-  "notas": "Progreso de subida visible en el Panel",
-  "version": "0.3.1"
+  "commit": "bbe84ac271d523044e767c303ce64afb917bf30d",
+  "fecha": "2026-08-02 07:09 UTC",
+  "digest": "sha256:e4017814fa96f0bef285b94c2ddad0db26fcf1d2fed004017d8857ac393a5c4a",
+  "notas": "El progreso de una subida se actualiza al momento, y volver a una sección ya no la vuelve a cargar desde cero",
+  "version": "0.4.0"
 }
