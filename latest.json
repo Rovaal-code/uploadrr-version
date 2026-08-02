@@ -1,7 +1,7 @@
 {
   "commit": "51ec63bdf829c0e013ed03dfd82b16ebd9ea5107",
   "fecha": "2026-08-02 02:03 UTC",
-  "digest": "sha256:otro",
-  "notas": "prueba",
+  "digest": "sha256:2138b9936986969657f6e79f02fe066fad5794ce3758057c5fefb02ebc6f7846",
+  "notas": "Tests en el frontend y aviso de versión con su número",
   "version": "0.3.0"
 }
