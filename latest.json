@@ -1,7 +1,7 @@
 {
-  "commit": "bbe84ac271d523044e767c303ce64afb917bf30d",
-  "fecha": "2026-08-02 07:09 UTC",
-  "digest": "sha256:e4017814fa96f0bef285b94c2ddad0db26fcf1d2fed004017d8857ac393a5c4a",
-  "notas": "El progreso de una subida se actualiza al momento, y volver a una sección ya no la vuelve a cargar desde cero",
-  "version": "0.4.0"
+  "commit": "6965f8b7d063c5aec3bb3d508368730b69d2f123",
+  "fecha": "2026-08-02 10:32 UTC",
+  "digest": "sha256:9088cc28494629557b3c89145bd2af58bb8c3e0a7fbf63ad1f0fcbce53deae84",
+  "notas": "La interfaz se entera al momento de lo que pasa en el servidor, en vez de preguntar cada pocos segundos",
+  "version": "0.5.0"
 }
