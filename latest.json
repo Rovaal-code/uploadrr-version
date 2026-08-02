@@ -1,7 +1,7 @@
 {
-  "commit": "dbaab0bfc287ff4df7880cab465e3b8efa7a9469",
-  "fecha": "2026-08-02 13:14 UTC",
-  "digest": "sha256:ef8684e27e234c895a29493ea5eb8dee00c8d63e4860a0d21df291c986d16892",
-  "notas": "Cambiar de sección es instantáneo: todas se preparan al abrir la aplicación y se mantienen al día solas",
-  "version": "0.6.0"
+  "commit": "2964b4bc080a9e12a70a88cca67592f1a549545b",
+  "fecha": "2026-08-02 14:17 UTC",
+  "digest": "sha256:b64d8e78da38b4f17f8fdcec9e7fe5b186a7650bb364c42e3d61a6eb829ed611",
+  "notas": "Los filtros de las tablas ya no dejan la lista vacía, y ordenar por tamaño coincide con lo que enseña la columna",
+  "version": "0.6.1"
 }
