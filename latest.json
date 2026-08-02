@@ -1,7 +1,7 @@
 {
-  "commit": "51ec63bdf829c0e013ed03dfd82b16ebd9ea5107",
-  "fecha": "2026-08-02 02:03 UTC",
-  "digest": "sha256:2138b9936986969657f6e79f02fe066fad5794ce3758057c5fefb02ebc6f7846",
-  "notas": "Tests en el frontend y aviso de versión con su número",
-  "version": "0.3.0"
+  "commit": "18bd9cb02c5aa3ceab375e82ec21e736060310d3",
+  "fecha": "2026-08-02 02:47 UTC",
+  "digest": "sha256:4f2813671dfad3f92af3416a2e830fa62ba43ccfd1f529c60aa4cbc92f77490c",
+  "notas": "Progreso de subida visible en el Panel",
+  "version": "0.3.1"
 }
