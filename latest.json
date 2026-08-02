@@ -1,7 +1,7 @@
 {
-  "commit": "6965f8b7d063c5aec3bb3d508368730b69d2f123",
-  "fecha": "2026-08-02 10:32 UTC",
-  "digest": "sha256:9088cc28494629557b3c89145bd2af58bb8c3e0a7fbf63ad1f0fcbce53deae84",
-  "notas": "La interfaz se entera al momento de lo que pasa en el servidor, en vez de preguntar cada pocos segundos",
-  "version": "0.5.0"
+  "commit": "815076b0a46b89beac65dcc0e4535ad723532e76",
+  "fecha": "2026-08-02 11:06 UTC",
+  "digest": "sha256:29d7ac9005e09d7ff83f6b33be4ed2639818c45e613063fab5850c7f6f4f55d3",
+  "notas": "Una subida terminada se queda un momento a la vista en el Panel antes de irse",
+  "version": "0.5.1"
 }
