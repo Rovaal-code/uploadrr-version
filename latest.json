@@ -1,7 +1,7 @@
 {
-  "commit": "9ac978235371c8366b4dadff319b085c45667372",
-  "fecha": "2026-08-03 22:27 UTC",
-  "digest": "sha256:7512895aad1d6534ffdae45b13766c385edfb80455c764244540f1bdeaf33bd0",
-  "notas": "Todo lo que subes se prepara en la misma carpeta, sin tocar tu biblioteca",
-  "version": "0.9.1"
+  "commit": "fc1f447f098750766d5fa382efece18e4e81fa09",
+  "fecha": "2026-08-03 23:42 UTC",
+  "digest": "sha256:4b0551ff669f1cb05f1e611f543b505ca40fdc5ec619895063e9ae5dad82a2cf",
+  "notas": "Actualización disponible",
+  "version": "0.9.2"
 }
