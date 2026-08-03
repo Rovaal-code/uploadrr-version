@@ -1,7 +1,7 @@
 {
-  "commit": "306f959bd8d0f091d962e93fce74c4b90561278a",
-  "fecha": "2026-08-03 08:32 UTC",
-  "digest": "sha256:bc575143adcaf5ea28cd47f6c1089b970d2b9863444415e7735d025833670b52",
-  "notas": "La columna Español se coloca junto a las demás propiedades del archivo",
-  "version": "0.8.1"
+  "commit": "d1e9c104a68bf5929dff4362020ed3248ba27cef",
+  "fecha": "2026-08-03 09:25 UTC",
+  "digest": "sha256:ce1fa091c2fd2fa913f7d1972a917131138383d5ebde9ef1c00202bb40d5a64e",
+  "notas": "El asistente de subida se titula solo con el nombre del contenido",
+  "version": "0.8.2"
 }
