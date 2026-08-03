@@ -1,7 +1,7 @@
 {
-  "commit": "2964b4bc080a9e12a70a88cca67592f1a549545b",
-  "fecha": "2026-08-02 14:17 UTC",
-  "digest": "sha256:b64d8e78da38b4f17f8fdcec9e7fe5b186a7650bb364c42e3d61a6eb829ed611",
-  "notas": "Los filtros de las tablas ya no dejan la lista vacía, y ordenar por tamaño coincide con lo que enseña la columna",
-  "version": "0.6.1"
+  "commit": "71d03015f722c6a991c4b7cd8e7254a56acdd4f9",
+  "fecha": "2026-08-03 00:21 UTC",
+  "digest": "sha256:e6f2ec7f10d678bdc5435680dff953230ccbf3b259864a34d53c1dff0c43d918",
+  "notas": "Los enlaces a un contenido concreto vuelven a abrirlo, y salir de una sección la devuelve a su tabla",
+  "version": "0.6.2"
 }
