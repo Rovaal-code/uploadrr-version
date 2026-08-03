@@ -1,7 +1,7 @@
 {
-  "commit": "115313c7cae8285e4416be54ce535cb8bdab9e47",
-  "fecha": "2026-08-03 01:04 UTC",
-  "digest": "sha256:16a2970c6c4618d1cc035aa626495dca07e3740de985b68ae712506318d19cff",
-  "notas": "El botón Ver Remux pasa a llamarse Ver Pistas, que es lo que enseña",
-  "version": "0.6.3"
+  "commit": "36c20f0dbd5e8f20f5c7176cb56a3b17578edd92",
+  "fecha": "2026-08-03 01:16 UTC",
+  "digest": "sha256:7a0047f9e504516063ed25218456db63f71f801ffe7e5ffb0e825ed096e9a0c2",
+  "notas": "La tarjeta Reclamadas del Panel pasa a llamarse Peticiones Reclamadas",
+  "version": "0.6.4"
 }
