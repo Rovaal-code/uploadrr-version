@@ -1,7 +1,7 @@
 {
-  "commit": "baa768f65382f0b8fe220caa3b2f49fc9acf0d69",
-  "fecha": "2026-08-03 06:17 UTC",
-  "digest": "sha256:70a84019f5c96a97fa45707aa3d06a370ffe3f8beb247678eebacb2f04a2d97c",
-  "notas": "El contador de Biblioteca cuenta los archivos que tienes, no las filas de la tabla",
-  "version": "0.7.4"
+  "commit": "52647008f8f4103e7c770edde6a19ebad2c1d32b",
+  "fecha": "2026-08-03 07:50 UTC",
+  "digest": "sha256:3786ff4d8e0530a38ef316434e1e1d9536f511f52d778a2c3f3817bfa90a4366",
+  "notas": "La columna Español distingue si el castellano está en el audio, en los subtítulos o en ambos",
+  "version": "0.8.0"
 }
