@@ -1,7 +1,7 @@
 {
-  "commit": "531726f1f2ee3437d028645c130d781396033727",
-  "fecha": "2026-08-03 04:20 UTC",
-  "digest": "sha256:075ef0aa76b647ff40428114e67d9422d8abee764fc48887b3b7731bdf594af7",
-  "notas": "Las tarjetas de temporada explican las condiciones reales, y una temporada incompleta ya no deja avanzar",
-  "version": "0.7.1"
+  "commit": "f73acfc308b707c4cc44262174876e2c33cd9cac",
+  "fecha": "2026-08-03 05:06 UTC",
+  "digest": "sha256:3c12ac9f7842a219be85e283e8386e3e70872ce4e4b3b50acb09ed01b1d1edde",
+  "notas": "Una subida recién encolada aparece al momento en Subidas y en el Panel, sin recargar",
+  "version": "0.7.2"
 }
