@@ -1,7 +1,7 @@
 {
-  "commit": "c26126dd402dd99254f9dad70e06a9a0af1e18c1",
-  "fecha": "2026-08-03 02:18 UTC",
-  "digest": "sha256:e10a400419d23f76b7cc018e1c0ef09879ec95d4667cfc7152939423cb257e88",
-  "notas": "El título de la sección Peticiones coincide ya con el nombre de su pestaña",
-  "version": "0.6.6"
+  "commit": "bfdf7b6a759ff46df080deb0e0bde29e123a2fee",
+  "fecha": "2026-08-03 03:26 UTC",
+  "digest": "sha256:0341a436816d24469f4b7ed95c8236712b9ffb6c801080278257b8e042ecc0bd",
+  "notas": "Ver Pistas avisa si la ordenación está desactivada, para que la tabla no se lea al revés",
+  "version": "0.7.0"
 }
