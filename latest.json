@@ -1,7 +1,7 @@
 {
-  "commit": "1ec0645956537e96b002b8db7f052215a275cfb4",
-  "fecha": "2026-08-03 01:52 UTC",
-  "digest": "sha256:85b33fbf6ae6fbe2047ae901e7a2907b6ef1f5d98eb04574e7c8d059ba246462",
-  "notas": "La opción Reordenar pistas ya no dice al remuxear, que era lo contrario de lo que hace",
-  "version": "0.6.5"
+  "commit": "c26126dd402dd99254f9dad70e06a9a0af1e18c1",
+  "fecha": "2026-08-03 02:18 UTC",
+  "digest": "sha256:e10a400419d23f76b7cc018e1c0ef09879ec95d4667cfc7152939423cb257e88",
+  "notas": "El título de la sección Peticiones coincide ya con el nombre de su pestaña",
+  "version": "0.6.6"
 }
