@@ -1,7 +1,7 @@
 {
-  "commit": "f73acfc308b707c4cc44262174876e2c33cd9cac",
-  "fecha": "2026-08-03 05:06 UTC",
-  "digest": "sha256:3c12ac9f7842a219be85e283e8386e3e70872ce4e4b3b50acb09ed01b1d1edde",
-  "notas": "Una subida recién encolada aparece al momento en Subidas y en el Panel, sin recargar",
-  "version": "0.7.2"
+  "commit": "531b1a178f1e949c7a614a3480955491c2754040",
+  "fecha": "2026-08-03 05:32 UTC",
+  "digest": "sha256:016c1bea46eaa6c6c6a1ed29b4f1769fa57be62ea6310d80e0c8b5eca04a95f8",
+  "notas": "La subida recién encolada aparece en Subidas al momento, sin recargar la página",
+  "version": "0.7.3"
 }
