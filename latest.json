@@ -1,7 +1,7 @@
 {
-  "commit": "52647008f8f4103e7c770edde6a19ebad2c1d32b",
-  "fecha": "2026-08-03 07:50 UTC",
-  "digest": "sha256:3786ff4d8e0530a38ef316434e1e1d9536f511f52d778a2c3f3817bfa90a4366",
-  "notas": "La columna Español distingue si el castellano está en el audio, en los subtítulos o en ambos",
-  "version": "0.8.0"
+  "commit": "306f959bd8d0f091d962e93fce74c4b90561278a",
+  "fecha": "2026-08-03 08:32 UTC",
+  "digest": "sha256:bc575143adcaf5ea28cd47f6c1089b970d2b9863444415e7735d025833670b52",
+  "notas": "La columna Español se coloca junto a las demás propiedades del archivo",
+  "version": "0.8.1"
 }
