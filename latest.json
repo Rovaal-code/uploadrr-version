@@ -1,7 +1,7 @@
 {
-  "commit": "71d03015f722c6a991c4b7cd8e7254a56acdd4f9",
-  "fecha": "2026-08-03 00:21 UTC",
-  "digest": "sha256:e6f2ec7f10d678bdc5435680dff953230ccbf3b259864a34d53c1dff0c43d918",
-  "notas": "Los enlaces a un contenido concreto vuelven a abrirlo, y salir de una sección la devuelve a su tabla",
-  "version": "0.6.2"
+  "commit": "115313c7cae8285e4416be54ce535cb8bdab9e47",
+  "fecha": "2026-08-03 01:04 UTC",
+  "digest": "sha256:16a2970c6c4618d1cc035aa626495dca07e3740de985b68ae712506318d19cff",
+  "notas": "El botón Ver Remux pasa a llamarse Ver Pistas, que es lo que enseña",
+  "version": "0.6.3"
 }
