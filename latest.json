@@ -1,7 +1,7 @@
 {
-  "commit": "bfdf7b6a759ff46df080deb0e0bde29e123a2fee",
-  "fecha": "2026-08-03 03:26 UTC",
-  "digest": "sha256:0341a436816d24469f4b7ed95c8236712b9ffb6c801080278257b8e042ecc0bd",
-  "notas": "Ver Pistas avisa si la ordenación está desactivada, para que la tabla no se lea al revés",
-  "version": "0.7.0"
+  "commit": "531726f1f2ee3437d028645c130d781396033727",
+  "fecha": "2026-08-03 04:20 UTC",
+  "digest": "sha256:075ef0aa76b647ff40428114e67d9422d8abee764fc48887b3b7731bdf594af7",
+  "notas": "Las tarjetas de temporada explican las condiciones reales, y una temporada incompleta ya no deja avanzar",
+  "version": "0.7.1"
 }
