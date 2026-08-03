@@ -1,7 +1,7 @@
 {
-  "commit": "531b1a178f1e949c7a614a3480955491c2754040",
-  "fecha": "2026-08-03 05:32 UTC",
-  "digest": "sha256:016c1bea46eaa6c6c6a1ed29b4f1769fa57be62ea6310d80e0c8b5eca04a95f8",
-  "notas": "La subida recién encolada aparece en Subidas al momento, sin recargar la página",
-  "version": "0.7.3"
+  "commit": "baa768f65382f0b8fe220caa3b2f49fc9acf0d69",
+  "fecha": "2026-08-03 06:17 UTC",
+  "digest": "sha256:70a84019f5c96a97fa45707aa3d06a370ffe3f8beb247678eebacb2f04a2d97c",
+  "notas": "El contador de Biblioteca cuenta los archivos que tienes, no las filas de la tabla",
+  "version": "0.7.4"
 }
