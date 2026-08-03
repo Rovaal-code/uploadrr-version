@@ -1,7 +1,7 @@
 {
-  "commit": "8dc4ce57dbc3adb150a53db5b3021e30385865d1",
-  "fecha": "2026-08-03 21:45 UTC",
-  "digest": "sha256:05cf02140ab1099d94e9291c482ab647b943ee1e2efa043411f35cadafcd664b",
-  "notas": "Subir un pack de temporada ya no renombra la carpeta de tu biblioteca",
-  "version": "0.9.0"
+  "commit": "9ac978235371c8366b4dadff319b085c45667372",
+  "fecha": "2026-08-03 22:27 UTC",
+  "digest": "sha256:7512895aad1d6534ffdae45b13766c385edfb80455c764244540f1bdeaf33bd0",
+  "notas": "Todo lo que subes se prepara en la misma carpeta, sin tocar tu biblioteca",
+  "version": "0.9.1"
 }
