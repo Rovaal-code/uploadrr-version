@@ -1,7 +1,7 @@
 {
-  "commit": "8c7f4f51aaa14c5eda044a72cefa853f53654d61",
-  "fecha": "2026-08-04 02:30 UTC",
-  "digest": "sha256:358b65d97dd39d4f963abb29d263f250847f01b4d845f9879bde5e5d225babee",
+  "commit": "ebf9c9d3bf2d3be0e5ae9b1acf788e2f48b88af2",
+  "fecha": "2026-08-04 04:08 UTC",
+  "digest": "sha256:0f521f74a930a2d02cd7af99a36073e8cdc28c38fc2d1dd2fc8ca8d56fcb7d74",
   "notas": "Actualización disponible",
-  "version": "0.10.0"
+  "version": "0.10.1"
 }
