@@ -1,7 +1,7 @@
 {
-  "commit": "ebf9c9d3bf2d3be0e5ae9b1acf788e2f48b88af2",
-  "fecha": "2026-08-04 04:08 UTC",
-  "digest": "sha256:0f521f74a930a2d02cd7af99a36073e8cdc28c38fc2d1dd2fc8ca8d56fcb7d74",
-  "notas": "Actualización disponible",
-  "version": "0.10.1"
+  "commit": "2f88b8d223baab7018ded0fe964cbcc445f37485",
+  "fecha": "2026-08-12 10:25 UTC",
+  "digest": "sha256:4a39ce054893e9ae9825954892c10336c785714bae5006bccdc2f83aa0a054ff",
+  "notas": "La interfaz mantiene su tamaño en 1080p, 2K y 4K",
+  "version": "0.10.2"
 }
