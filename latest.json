@@ -1,7 +1,7 @@
 {
-  "commit": "2f88b8d223baab7018ded0fe964cbcc445f37485",
-  "fecha": "2026-08-12 10:25 UTC",
-  "digest": "sha256:4a39ce054893e9ae9825954892c10336c785714bae5006bccdc2f83aa0a054ff",
-  "notas": "La interfaz mantiene su tamaño en 1080p, 2K y 4K",
-  "version": "0.10.2"
+  "commit": "fa74819a3ae086106310ac593138096a220bc5f2",
+  "fecha": "2026-08-19 14:37 UTC",
+  "digest": "sha256:f21b63720ecb836df8b260f6de02038b860f6096d4a5eb45d64acf2a7b1071e9",
+  "notas": "El tamaño de la interfaz se elige en Configuración, y Configuración cabe en la pantalla",
+  "version": "0.10.3"
 }
